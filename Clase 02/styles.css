@@ -1,9 +1,6 @@
 body {
     background-color: #ac644b;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
+    text-align: center;
 }
 
 .title {
@@ -11,9 +8,8 @@ body {
     text-decoration: underline;
 }
 
-.text-style {
+.text {
     color: #e8e8c5;
-    text-align: center;
 }
 
 #main-text {
